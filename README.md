@@ -1,16 +1,23 @@
-## Hi there 👋
+# Gustavo Franzi
 
-<!--
-**GustavoFranzi/GustavoFranzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Learning workflow automation with n8n.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently learning workflow automation with n8n and building practical projects to improve my skills.
+
+My goal is to create automations that solve real problems and continue growing through hands-on experience.
+
+## Currently Learning
+
+* n8n
+* Workflow Automation
+* Git & GitHub
+
+## Projects
+
+I'm building automation projects as part of my learning journey. New projects will be added as I continue developing my skills.
+
+## Contact
+
+* LinkedIn: https://www.linkedin.com/in/gustavo-franzi-a054b7247/
